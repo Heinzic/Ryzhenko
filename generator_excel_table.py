@@ -46,7 +46,7 @@ class DataSet:
                         continue
                     vacancies_list.append(row)
         if count == 0:
-            print("Пустой файл")
+            print("Здесь написано третье другое")
             exit()
         elif count == 1:
             print("Нет данных")
